@@ -1,0 +1,10 @@
+D:\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.csprojResolveAssemblyReference.cache
+D:\Mai Hassan_FreeTalk\FreeTalk_Model\bin\Debug\FreeTalk_Model.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_Model\bin\Debug\FreeTalk_Model.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_Model\bin\Debug\FreeTalk_Model.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_Model\bin\Debug\FreeTalk_Model.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.csprojResolveAssemblyReference.cache
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_Model\obj\Debug\FreeTalk_Model.pdb

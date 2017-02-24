@@ -1,0 +1,86 @@
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.dll.config
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\Antlr3.Runtime.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\Newtonsoft.Json.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Net.Http.Formatting.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Helpers.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.WebHost.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Mvc.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Optimization.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Razor.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Deployment.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Razor.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\WebGrease.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\Newtonsoft.Json.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Net.Http.Formatting.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Helpers.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.WebHost.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Mvc.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Optimization.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Razor.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Deployment.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Razor.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\Antlr3.Runtime.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.csprojResolveAssemblyReference.cache
+D:\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.SqlServer.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.SqlServer.xml
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_Model.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_Model.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.Migrations.Initial.resources
+D:\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.csproj.GenerateResource.Cache
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Cors.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.Cors.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.Cors.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.dll.config
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_API.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\Antlr3.Runtime.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.SqlServer.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_Model.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\Microsoft.Web.Infrastructure.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\Newtonsoft.Json.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Net.Http.Formatting.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Cors.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Helpers.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.Cors.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.WebHost.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Mvc.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Optimization.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Razor.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Deployment.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Razor.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\WebGrease.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\FreeTalk_Model.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\EntityFramework.SqlServer.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\Newtonsoft.Json.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Net.Http.Formatting.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.Cors.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Helpers.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Http.WebHost.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Mvc.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Optimization.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.Razor.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Deployment.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\System.Web.WebPages.Razor.xml
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\bin\Antlr3.Runtime.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.csprojResolveAssemblyReference.cache
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.Migrations.Initial.resources
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.csproj.GenerateResource.Cache
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_API\obj\Debug\FreeTalk_API.pdb

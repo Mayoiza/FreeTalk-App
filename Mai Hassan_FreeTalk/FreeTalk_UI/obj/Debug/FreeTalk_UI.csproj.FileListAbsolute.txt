@@ -1,0 +1,18 @@
+D:\FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll.config
+D:\FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll
+D:\FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.pdb
+D:\FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.csprojResolveAssemblyReference.cache
+D:\FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.dll
+D:\FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll.config
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.pdb
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.csprojResolveAssemblyReference.cache
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.dll
+D:\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll.config
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\bin\FreeTalk_UI.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.csprojResolveAssemblyReference.cache
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.dll
+D:\CS Relevant\Programming Projects\Mai Hassan_FreeTalk\FreeTalk_UI\obj\Debug\FreeTalk_UI.pdb

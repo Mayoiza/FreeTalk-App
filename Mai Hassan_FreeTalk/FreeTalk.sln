@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeTalk_UI", "FreeTalk_UI\FreeTalk_UI.csproj", "{8AB88F93-2F97-4046-83BE-2116E482FE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeTalk_API", "FreeTalk_API\FreeTalk_API.csproj", "{36F61257-6165-4B43-9BFE-13B2D160C124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeTalk_Model", "FreeTalk_Model\FreeTalk_Model.csproj", "{DDF7D5CC-D3C8-4BAF-A00A-DE7FC4775297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB88F93-2F97-4046-83BE-2116E482FE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB88F93-2F97-4046-83BE-2116E482FE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB88F93-2F97-4046-83BE-2116E482FE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB88F93-2F97-4046-83BE-2116E482FE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F61257-6165-4B43-9BFE-13B2D160C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F61257-6165-4B43-9BFE-13B2D160C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F61257-6165-4B43-9BFE-13B2D160C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F61257-6165-4B43-9BFE-13B2D160C124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF7D5CC-D3C8-4BAF-A00A-DE7FC4775297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF7D5CC-D3C8-4BAF-A00A-DE7FC4775297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF7D5CC-D3C8-4BAF-A00A-DE7FC4775297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF7D5CC-D3C8-4BAF-A00A-DE7FC4775297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

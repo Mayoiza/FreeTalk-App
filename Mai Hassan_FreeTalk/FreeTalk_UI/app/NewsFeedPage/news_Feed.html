@@ -1,0 +1,233 @@
+﻿<div class="container">
+    <div class="modal fade" id="comments_data" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="background-color:gray">
+                    <h4 class="modal-title" style="color:white">
+                        <strong>Replies</strong>
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <div class="masterData">
+                        <form name="add_item4">
+                            <div class="post-comments">
+                                <form>
+                                    <div class="form-group">
+                                        <label for="comment">Your Comment</label>
+                                        <textarea name="comment" ng-model="vm.replyArea" class="form-control" rows="3"></textarea>
+                                    </div>
+                                    <button type="submit" ng-click="vm.submitReply(vm)" class="btn btn-primary">Send</button>
+                                    
+                                </form>
+
+                                <div class="comments-nav">
+                                    <br />    
+                                </div>
+                                
+                                <div class="row" ng-repeat="x in vm.tempComments">
+                                    <div class="media">
+                                        <!-- first comment -->
+                                        <div class="media-heading">
+                                            <i class="fa fa-star"></i>
+                                            <span class="label label-info">{{x.postType}}</span> {{x.firstName}} {{x.lastName}}
+                                        </div>
+                                        <div class="panel-collapse collapse in" id="collapseOne">
+                                            <div class="media-left">
+                                                <div class="vote-wrap">
+                                                    <div class="save-post">
+                                                        <a href="#"><span class="glyphicon glyphicon-star" aria-label="Save"></span></a>
+                                                    </div>
+                                                    <!--<div class="vote up">
+                            <i class="glyphicon glyphicon-menu-up"></i>
+                        </div>-->
+                                                    <!--<div class="vote inactive">
+                            <i class="glyphicon glyphicon-menu-down"></i>
+                        </div>-->
+                                                </div>
+                                                <!-- vote-wrap -->
+                                            </div>
+                                            <!-- media-left -->
+
+                                            <div class="media-body">
+                                                <p>{{x.postContent}}</p>
+                                                <div class="comment-meta">
+                                                    
+                                                    
+                                                    <span>{{x.createDate}}</span>
+                                                    <div class="collapse" id="replyCommentT">
+                                                        <form>
+                                                            <div class="form-group">
+                                                                <label for="comment">Your Comment</label>
+                                                                <textarea name="comment" class="form-control" rows="3"></textarea>
+                                                            </div>
+                                                            <button type="submit" class="btn btn-default">Send</button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                                <!-- comment-meta -->
+                                                <!-- answer to the first comment -->
+                                            </div>
+                                        </div>
+                                        <!-- comments -->
+                                    </div>
+                                    <!-- first comment -->
+                                    <!-- first comment -->
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default btn-embossed" data-dismiss="modal">Close</button>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="endMessage" class="modal fade" role="dialog">
+        <div class="modal-dialog" style="margin-top: 15%;">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Result Message</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-success" ng-show="vm.messageSuc">
+                        {{vm.SuccessMess}}  <span style="color:#4399E2;font-weight:bold;text-decoration:underline"></span>
+                    </div>
+
+                    <div class="alert alert-danger" ng-show="vm.messageErr">
+                        {{vm.ErrMassge}}
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="alertMessage" class="modal fade" role="dialog">
+        <div class="modal-dialog" style="margin-top: 15%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Warning</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-success">
+                        Are you Sure you Want to Delete?<span style="color:#4399E2;font-weight:bold;text-decoration:underline"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" ng-click="vm.delete()" data-dismiss="modal">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="editPlace" class="modal fade" role="dialog">
+        <div class="modal-dialog" style="margin-top: 15%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Edit</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-success">
+                        <textarea name="comment" ng-model="vm.editArea" class="form-control" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-danger" ng-click="vm.editMainComment()" data-dismiss="modal">Edit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="post-comments">
+        <form>
+            <div class="form-group">
+                <label for="comment">Your Post</label>
+                <textarea name="comment" id="postArea" ng-model="vm.postArea" class="form-control" rows="3"></textarea>
+            </div>
+            <div class="row">
+                <button type="submit" ng-click="vm.submit(vm)" class="btn btn-primary">Send</button>
+                <!--<button type="button" ng-click="vm.editMainComment(vm)" ng-show="vm.showBtnEdit" class="btn btn-danger">Edit</button>-->
+                
+                <label style="margin-left:300px;">Filter by</label>
+                                
+                <select ng-model="vm.userName" ng-change="vm.filtration(vm)" style="margin-left:10px;width:200px;">
+                    <option value="0">All</option>
+                    <option ng-repeat="z in vm.users" value={{z.id}}>{{z.firstName}} {{z.lastName}}</option>
+                </select>
+                <select ng-model="vm.postType" ng-change="vm.filtration(vm)" style="margin-left:2px;width:200px;">
+                    <option>All</option>
+                    <option>Health</option>
+                    <option>Science</option>
+                    <option>Social</option>
+                </select>
+            </div>
+        </form>
+        <br />
+        <!--<div class="row">
+
+        </div>-->
+        <div class="comments-nav">
+            <ul class="nav nav-pills">
+                <li role="presentation" class="dropdown">                    
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Best</a></li>
+                        <li><a href="#">Hot</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="row" ng-repeat="x in vm.comments">
+            <div class="media">
+                <!-- first comment -->
+                <div class="media-heading">
+                    <i class="fa fa-star"></i>
+                    <span class="label label-info">{{x.postType}}</span> {{x.firstName}} {{x.lastName}}
+                </div>
+                <div class="panel-collapse collapse in" id="collapseOne">
+                    <div class="media-left">
+                        <div class="vote-wrap">
+                            <div class="save-post">
+                                <a href="#"><span class="glyphicon glyphicon-star" aria-label="Save"></span></a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+
+                    <div class="media-body">
+                        <p>{{x.postContent}}</p>
+                        <div class="comment-meta">
+                            <span><a ng-click="vm.confirmDelete(x)" href="">delete</a></span>
+                            <span><a ng-click="vm.showEdit(x)" href="">Edit</a></span>
+                            <span><a ng-click="vm.showComments(x.id)" href="">Comment</a></span>
+                            <span>{{x.createDate}}</span>
+                            <div class="collapse" id="replyCommentT">
+                                <form>
+                                    <div class="form-group">
+                                        <label for="comment">Your Comment</label>
+                                        <textarea name="comment" class="form-control" rows="3"></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-default">Send</button>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- comment-meta -->
+                        <!-- answer to the first comment -->
+                    </div>
+                </div>
+                <!-- comments -->
+            </div>
+            <!-- first comment -->
+            <!-- first comment -->
+        </div>
+    </div>
+    <!-- post-comments -->
+</div>
